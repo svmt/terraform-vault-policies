@@ -2,5 +2,5 @@
 .terraform
 .env
 terraform.tfstate*
-backend.tf
+private.*
 *.plan
