@@ -1,0 +1,6 @@
+.idea
+.terraform
+.env
+terraform.tfstate*
+backend.tf
+*.plan
