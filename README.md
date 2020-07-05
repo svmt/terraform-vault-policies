@@ -25,7 +25,7 @@ vi .env
 source .env 
 ``` 
 
-Attention `.env` and `terraform.tfstate` are in `.gitinore` to ensure no private credentials are not committed
+Attention `.env` and `terraform.tfstate` are in `.gitinore` to ensure no private credentials are committed
 It is advisable to keep `terraform.tfstate` in S3 bucket
 
 ### Run terraform
